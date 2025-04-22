@@ -1,10 +1,20 @@
-# 🏪 Alura Store - Análisis de rendimiento de tiendas
+# 📊 Análisis de Ventas - Challenge Data Science Latam
 
-## 🎯 Propósito del análisis
-
-Este proyecto busca ayudar al Sr. Juan, propietario de la cadena Alura Store, a tomar una decisión informada sobre cuál de sus cuatro tiendas debe vender para iniciar un nuevo emprendimiento. A través del análisis de datos de ventas, reseñas y logística, identificamos cuál tienda presenta el menor rendimiento general.
+Este proyecto forma parte del Challenge 1 de Alura Latam, donde se analizan datos de ventas de cuatro tiendas con el objetivo de identificar patrones clave y determinar en cuál tienda debería vender el Sr. Juan.
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 Contenido del proyecto
 
+- `notebook.ipynb`: Análisis exploratorio completo con visualizaciones interactivas.
+- Datos: Archivos `.csv` de cada tienda cargados desde un repositorio público de GitHub.
+- `README.md`: Este documento, con instrucciones, estructura y explicación del proyecto.
+
+---
+
+## 🚀 Cómo usar el proyecto
+
+1. Abre el archivo en [Google Colab](https://colab.research.google.com/).
+2. Instala las dependencias necesarias:
+   ```bash
+   pip install pandas matplotlib seaborn folium
